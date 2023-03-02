@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OTCLoB7XtZSkGkOc/QPf5N8tZv7bEbfBE90cz4tpa+3x9IyBPCA3QWjjKFUk3z6DcZ2ka8Ft4suv3NAChcr69A==",
+  "success": true,
+  "projectFilePath": "D:\\source\\CISESPORT\\CISESPORT\\CISESPORT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
